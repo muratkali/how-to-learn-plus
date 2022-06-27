@@ -1,0 +1,13 @@
+.section__subtitle {
+  width: 60%;
+  line-height: 34px;
+  font-size: 24px;
+  font-family: "Inter", "Arial", sans-serif;
+  font-weight: normal;
+  margin: 0 auto 0;
+  text-align: center;
+}
+
+.section__subtitle_theme_dark {
+  color: white;
+}

@@ -1,0 +1,13 @@
+.section__title {
+  width: 60%;
+  line-height: 1.15;
+  font-size: 60px;
+  font-family: "Inter", "Arial", sans-serif;
+  font-weight: 700;
+  margin: 0 auto 20px;
+  text-align: center;
+}
+
+.section__title_theme_dark {
+  color: white;
+}

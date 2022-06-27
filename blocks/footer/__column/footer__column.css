@@ -1,0 +1,16 @@
+.footer__column_content_copyright {
+  display: flex;
+  color: white;
+  flex-basis: 711px;
+  flex-direction: column;
+  justify-content: space-between;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.footer__column_content_info {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
