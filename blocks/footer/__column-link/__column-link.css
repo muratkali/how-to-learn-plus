@@ -6,4 +6,15 @@
   font-weight: normal;
   font-size: 18px;
   line-height: 18px;
+  color: white;
+  text-decoration-line: none;
+  list-style-type: none;
+}
+
+.footer__column-link:hover {
+  color: white;
+}
+
+.footer__column-link:active {
+  color: white;
 }

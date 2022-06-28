@@ -6,10 +6,3 @@
   font-weight: normal;
   margin-bottom: 60px;
 }
-
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  padding-top: 80px;
-}

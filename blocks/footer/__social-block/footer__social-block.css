@@ -1,0 +1,4 @@
+.footer__social-block {
+  display: flex;
+  flex-direction: row;
+}
