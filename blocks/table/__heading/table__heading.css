@@ -3,6 +3,8 @@
   font-size: 24px;
   font-family: "Inter", "Arial", sans-serif;
   font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 20px;
 }
 
 .table__heading_theme_dark {

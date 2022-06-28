@@ -34,11 +34,16 @@
 @import url("../blocks/techniques/techniques.css");
 @import url("../blocks/digits/digits.css");
 @import url("../blocks/section/__title/section__title.css");
+@import url("../blocks/section/__title/_theme/section__title_theme_dark.css");
 @import url("../blocks/section/__subtitle/section__subtitle.css");
+@import url("../blocks/section/__subtitle/_theme/section__subtitle_theme_dark.css");
 @import url("../blocks/table/table.css");
 @import url("../blocks/table/__cell/table__cell.css");
+@import url("../blocks/table/__cell/_theme/table__cell_theme.css");
 @import url("../blocks/table/__heading/table__heading.css");
+@import url("../blocks/table/__heading/_theme/table__heading_theme_dark.css");
 @import url("../blocks/table/__text/table__text.css");
+@import url("../blocks/table/__text/_theme/table__text_theme_dark.css");
 @import url("../blocks/kaufman/kaufman.css");
 @import url("../blocks/kaufman/__triangle/kaufman__triangle.css");
 @import url("../blocks/khan/khan.css");
