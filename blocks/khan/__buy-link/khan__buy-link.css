@@ -4,12 +4,13 @@
   font-weight: normal;
   color: #2f80ed;
   text-decoration: none;
-}
-
-.khan__buy-link:active {
-  color: #2f80ed;
+  transition: opacity 0.2s linear;
 }
 
 .khan__buy-link:hover {
+  opacity: 0.5;
+}
+
+.khan__buy-link:active {
   color: #2f80ed;
 }

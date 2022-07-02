@@ -2,6 +2,8 @@
   margin-right: 50px;
   width: 515px;
   height: 306px;
+  border: none;
+  box-shadow: none;
 }
 
 .video__iframe:last-of-type {

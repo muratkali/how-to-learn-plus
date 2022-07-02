@@ -9,10 +9,11 @@
   color: white;
   text-decoration-line: none;
   list-style-type: none;
+  transition: opacity 0.2s linear;
 }
 
 .footer__column-link:hover {
-  color: white;
+  opacity: 0.4;
 }
 
 .footer__column-link:active {

@@ -1,6 +1,5 @@
 @import url("../vendor/normalize.css");
 @import url("../blocks/page/page.css");
-@import url("../blocks/root/root.css");
 @import url("../blocks/centered-block/centered-block.css");
 @import url("../blocks/rotation/rotation.css");
 @import url("../blocks/header/header.css");
@@ -45,6 +44,8 @@
 @import url("../blocks/table/__heading/_theme/table__heading_theme_dark.css");
 @import url("../blocks/table/__text/table__text.css");
 @import url("../blocks/table/__text/_theme/table__text_theme_dark.css");
+@import url("../blocks/table/_theme/table_theme_dark.css");
+
 @import url("../blocks/kaufman/kaufman.css");
 @import url("../blocks/kaufman/__triangle/kaufman__triangle.css");
 @import url("../blocks/khan/khan.css");
@@ -69,7 +70,6 @@
 @import url("../blocks/footer/__column/_content/footer__column_content_copyright.css");
 @import url("../blocks/footer/__column/_content/footer__column_content_info.css");
 @import url("../blocks/footer/__column/_content/footer__column_content_social.css");
-@import url("../blocks/footer/__column/_content.css");
 @import url("../blocks/footer/__columns/footer__columns.css");
 @import url("../blocks/footer/__social-icon/footer__social-icon.css");
 @import url("../blocks/footer/__social-block/footer__social-block.css");

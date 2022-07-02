@@ -1,9 +1,8 @@
 .two-columns__brief {
   line-height: 1.2;
   font-size: 18px;
-  font-family: "Inter", "Arial", sans-serif;
   font-weight: normal;
   color: #2f80ed;
   width: 175px;
-  margin: 0;
+  margin-top: 0;
 }
