@@ -1,5 +1,7 @@
 .video__iframe {
   margin-right: 50px;
+  width: 515px;
+  height: 306px;
 }
 
 .video__iframe:last-of-type {
