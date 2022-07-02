@@ -71,5 +71,5 @@
 @import url("../blocks/footer/__column/_content/footer__column_content_social.css");
 @import url("../blocks/footer/__column/_content.css");
 @import url("../blocks/footer/__columns/footer__columns.css");
-@import url("../blocks/footer/__social-icon/__social-icon.css");
+@import url("blocks/footer/__social-icon/footer__social-icon.css");
 @import url("../blocks/footer/__social-block/footer__social-block.css");
