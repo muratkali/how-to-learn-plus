@@ -7,4 +7,5 @@
   max-width: 730px;
   width: 100%;
   align-self: center;
+  z-index: 13;
 }
