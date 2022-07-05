@@ -8,6 +8,7 @@
   text-decoration-line: none;
   color: #2f80ed;
   transition: opacity 0.2s linear;
+  margin: 0 auto;
 }
 
 .feynman__link:hover {

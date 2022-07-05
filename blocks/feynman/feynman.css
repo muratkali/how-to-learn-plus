@@ -7,4 +7,6 @@
   background-size: 867px 637px;
   position: relative;
   background-color: #f2f2f2;
+  margin: 0 auto;
+  box-sizing: border-box;
 }
